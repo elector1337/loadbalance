@@ -1,0 +1,6 @@
+bin/
+.DS_Store
+*.o
+.venv/
+__pycache__/
+*.pyc
